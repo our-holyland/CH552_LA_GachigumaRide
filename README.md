@@ -46,11 +46,11 @@ CH552_LA_GachigumaRide.inoをArduino IDEで開き、スケッチ→「コンパ�
 
 ## 【使用実績】
 クリア済みの日本語ROMで全５か所の発掘に成功しました。  
-<img src="https://github.com/user-attachments/assets/4259774f-6be1-45fb-b87d-16c59077cd68" width=18% height=18%>
-<img src="https://github.com/user-attachments/assets/5b54a3e2-54d9-43ae-9ac2-fc28d049db9f" width=18% height=18%>
-<img src="https://github.com/user-attachments/assets/61e1c6dd-911f-4a46-b9c3-8e0327e1a6af" width=18% height=18%>
 <img src="https://github.com/user-attachments/assets/947d8bb9-d3c2-4f7d-87d0-cc16a97d0383" width=18% height=18%>
+<img src="https://github.com/user-attachments/assets/4259774f-6be1-45fb-b87d-16c59077cd68" width=18% height=18%>
+<img src="https://github.com/user-attachments/assets/61e1c6dd-911f-4a46-b9c3-8e0327e1a6af" width=18% height=18%>
 <img src="https://github.com/user-attachments/assets/15710cd7-deee-43f4-a0ed-2e2155f470a7" width=18% height=18%>
+<img src="https://github.com/user-attachments/assets/5b54a3e2-54d9-43ae-9ac2-fc28d049db9f" width=18% height=18%>
 
 ## 【Special Thanks】
 - ますたー様  
