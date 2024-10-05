@@ -38,13 +38,11 @@ CH552_LA_GachigumaRide.inoをArduino IDEで開き、スケッチ→「コンパ�
 - 天冠の山麓内にいること
 - 天冠の山麓の「山麓ベース」、「山中ベース」、「山頂ベース」が空を飛ぶで解放されていること
 - ライドポケモンが「ガチグマ」になっていること
-
 - 野生ポケモンに見つかっていないこと
 
-<p align="center">
- <img alt="スクリーンショット 2024-10-05 14 01 55" src="https://github.com/user-attachments/assets/7b8a4926-b841-4f65-bc8d-7ce393711ad5" width=40% height=40%>
- <img alt="スクリーンショット 2024-10-05 14 00 28" src="https://github.com/user-attachments/assets/cafdae7e-264d-4d68-97b6-48e1cd37e5bc" width=40% height=40%>
-</p>
+
+<img alt="スクリーンショット 2024-10-05 14 01 55" src="https://github.com/user-attachments/assets/7b8a4926-b841-4f65-bc8d-7ce393711ad5" width=40% height=40%>
+<img alt="スクリーンショット 2024-10-05 14 00 28" src="https://github.com/user-attachments/assets/cafdae7e-264d-4d68-97b6-48e1cd37e5bc" width=40% height=40%>
 
 ## 【使用実績】
 クリア済みの日本語ROMで全５か所の発掘に成功しました。  
