@@ -52,8 +52,13 @@ CH552_LA_GachigumaRide.inoをArduino IDEで開き、スケッチ→「コンパ�
 <img src="https://github.com/user-attachments/assets/947d8bb9-d3c2-4f7d-87d0-cc16a97d0383" width=18% height=18%>
 <img src="https://github.com/user-attachments/assets/15710cd7-deee-43f4-a0ed-2e2155f470a7" width=18% height=18%>
 
-## 【参考】
+## 【Special Thanks】
+- ますたー様  
+  ベースプログラムの移植を許可頂き、ありがとうございます。
+- ぼんじり様  
+  CH552-MCUの販売、ありがとうございます。
 
+## 【参考】
 - ますたーの忘備録  
 <https://tangential-star.hatenablog.jp/>
 
