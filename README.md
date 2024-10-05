@@ -40,15 +40,19 @@ CH552_LA_GachigumaRide.inoをArduino IDEで開き、スケッチ→「コンパ�
 - 野生ポケモンに見つかっていないこと
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/074046e6-b8c3-4594-b63b-72049dbf3534" width=10% height=10%>
+  <img src="https://github.com/user-attachments/assets/074046e6-b8c3-4594-b63b-72049dbf3534" width=30% height=30%>
 </p>
 
 ## 【使用実績】
 クリア済みの日本語ROMで全５か所の発掘に成功しました。  
-<img src="https://github.com/user-attachments/assets/183dc50a-1035-44a2-a94c-6ba1be449f92" width=20% height=20%>
-<img src="https://github.com/user-attachments/assets/5b1ea28c-292d-4828-b7f5-38fd12679772" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/4259774f-6be1-45fb-b87d-16c59077cd68" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/5b54a3e2-54d9-43ae-9ac2-fc28d049db9f" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/61e1c6dd-911f-4a46-b9c3-8e0327e1a6af" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/947d8bb9-d3c2-4f7d-87d0-cc16a97d0383" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/15710cd7-deee-43f4-a0ed-2e2155f470a7" width=20% height=20%>
 
 ## 【参考】
+
 - ますたーの忘備録  
 　<https://tangential-star.hatenablog.jp/>
 
