@@ -34,13 +34,16 @@ CH552_LA_GachigumaRide.inoをArduino IDEで開き、スケッチ→「コンパ�
 [ぼんじり様の記事](https://blog.bzl-web.com/entry/2022/11/24/001148)を参考にして、ビルドしたhexファイルをCH552-MCUに書き込んでください。
 
 ### 実行
-以下の条件を全て満たした上で天冠の山麓で本プログラムを書き込んだCH552-MCUをSwitchに接続して下さい。
+以下の条件を全て満たした上で本プログラムを書き込んだCH552-MCUをSwitchに接続して下さい。
+- 天冠の山麓内にいること
 - 天冠の山麓の「山麓ベース」、「山中ベース」、「山頂ベース」が空を飛ぶで解放されていること
-- ライドポケモンのカーソルが「ガチグマ」になっていること
+- ライドポケモンが「ガチグマ」になっていること
+
 - 野生ポケモンに見つかっていないこと
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/074046e6-b8c3-4594-b63b-72049dbf3534" width=30% height=30%>
+ <img alt="スクリーンショット 2024-10-05 14 01 55" src="https://github.com/user-attachments/assets/7b8a4926-b841-4f65-bc8d-7ce393711ad5" width=40% height=40%>
+ <img alt="スクリーンショット 2024-10-05 14 00 28" src="https://github.com/user-attachments/assets/cafdae7e-264d-4d68-97b6-48e1cd37e5bc" width=40% height=40%>
 </p>
 
 ## 【使用実績】
@@ -54,12 +57,12 @@ CH552_LA_GachigumaRide.inoをArduino IDEで開き、スケッチ→「コンパ�
 ## 【参考】
 
 - ますたーの忘備録  
-　<https://tangential-star.hatenablog.jp/>
+<https://tangential-star.hatenablog.jp/>
 
 - ぼんじりちゃんねる公式ショップ  
-　<https://bzl.booth.pm/>
+<https://bzl.booth.pm/>
 
 <div id="sanko">
 
 - ポケモンSV CH552マイコンで三角関数をなんちゃらかんちゃらした話  
-　<https://note.com/our_holyland/n/n9ed7e0eb7ea1>
+<https://note.com/our_holyland/n/n9ed7e0eb7ea1>
