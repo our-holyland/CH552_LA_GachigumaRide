@@ -40,17 +40,17 @@ CH552_LA_GachigumaRide.inoをArduino IDEで開き、スケッチ→「コンパ�
 - ライドポケモンが「ガチグマ」になっていること
 - 野生ポケモンに見つかっていないこと
 
-
-<img alt="スクリーンショット 2024-10-05 14 01 55" src="https://github.com/user-attachments/assets/7b8a4926-b841-4f65-bc8d-7ce393711ad5" width=40% height=40%>
-<img alt="スクリーンショット 2024-10-05 14 00 28" src="https://github.com/user-attachments/assets/cafdae7e-264d-4d68-97b6-48e1cd37e5bc" width=40% height=40%>
+<img src="https://github.com/user-attachments/assets/641927c6-0305-43de-b17a-41cc05662226" width=40% height=40%>
+<img src="https://github.com/user-attachments/assets/9419ab61-352d-4708-8124-f89b4c766ff7" width=40% height=40%>
 
 ## 【使用実績】
+
 クリア済みの日本語ROMで全５か所の発掘に成功しました。  
-<img src="https://github.com/user-attachments/assets/947d8bb9-d3c2-4f7d-87d0-cc16a97d0383" width=18% height=18%>
-<img src="https://github.com/user-attachments/assets/4259774f-6be1-45fb-b87d-16c59077cd68" width=18% height=18%>
-<img src="https://github.com/user-attachments/assets/61e1c6dd-911f-4a46-b9c3-8e0327e1a6af" width=18% height=18%>
-<img src="https://github.com/user-attachments/assets/15710cd7-deee-43f4-a0ed-2e2155f470a7" width=18% height=18%>
-<img src="https://github.com/user-attachments/assets/5b54a3e2-54d9-43ae-9ac2-fc28d049db9f" width=18% height=18%>
+<img src="https://github.com/user-attachments/assets/c6ce3399-e765-41a9-82eb-e5ad426471a9" width=18% height=18%>
+<img src="https://github.com/user-attachments/assets/a9e82290-28a4-4b91-960b-6a5d1ca90205" width=18% height=18%>
+<img src="https://github.com/user-attachments/assets/b7cad8cf-6b1a-46e9-941e-ca0f846f8f55" width=18% height=18%>
+<img src="https://github.com/user-attachments/assets/39830060-18c2-4fda-970d-88fd753f4115" width=18% height=18%>
+<img src="https://github.com/user-attachments/assets/d8fdf950-ff4c-40a2-8439-acff4828575d" width=18% height=18%>
 
 ## 【Special Thanks】
 - ますたー様  
