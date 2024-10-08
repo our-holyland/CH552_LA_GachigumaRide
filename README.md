@@ -18,7 +18,7 @@
 ## 【使い方】
 プログラムの基本動作はますたー様が開発したものと同じです。  
 移植元の[記事](https://tangential-star.hatenablog.jp/entry/Arduino_pokemon_LegendsArceus01_finding_treasure_with_Ursaluna)を熟読願います。  
-変更内容をまとめた小話(?)は[参考](#sanko)にURLを載せたので良かったら一読ください。
+変更内容をまとめた小話(?)を[参考](#sanko)のURLに載せたので良かったら一読ください。
 
 ### ライブラリ、ch55xduinoのインストール
 [CH55xSwitchControlのREADME](https://github.com/608/CH55xSwitchControl)を参考にしてください
