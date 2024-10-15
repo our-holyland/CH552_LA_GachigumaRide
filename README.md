@@ -67,5 +67,5 @@ CH552_LA_GachigumaRide.inoをArduino IDEで開き、スケッチ→「コンパ�
 
 <div id="sanko">
 
-- ポケモンSV CH552マイコンで三角関数をなんちゃらかんちゃらした話  
+- ポケモンSV&ポケモンLA CH552マイコンで三角関数をなんちゃらかんちゃらした話  
 <https://note.com/our_holyland/n/n9ed7e0eb7ea1>
