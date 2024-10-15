@@ -13,7 +13,7 @@
 ソフトウェア
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [WCHISPTool_Setup.zip](https://bzl-web.com/file/WCHISPTool_Setup.zip)
-- 本プログラム
+- 本プログラム([リリース](https://github.com/our-holyland/CH552_LA_GachigumaRide/releases)より最新版をダウンロードしてください)
 
 ## 【使い方】
 プログラムの基本動作はますたー様が開発したものと同じです。  
